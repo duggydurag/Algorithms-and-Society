@@ -28,3 +28,15 @@ h4{
     color: black;
     text-align: justify;
 }
+div{
+    text-align: center;
+}
+section{
+    width: 90%;
+}
+@media (max-width: 1024px) {
+    div.container{
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}
